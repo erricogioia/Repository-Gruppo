@@ -14,6 +14,8 @@ public class Esempio {
     public static void main (String args[]){
         
         System.out.println("Prima stampa di prova");
+        System.out.println("Christian");
+        System.out.println("Errico");
         System.out.println("Raffaele");
         
     }
