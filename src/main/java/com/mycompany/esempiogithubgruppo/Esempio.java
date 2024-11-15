@@ -19,6 +19,8 @@ public class Esempio {
         System.out.println("Raffaele");
         System.out.println("Pio");
         
+        System.out.println("Stampa prova");
+        
     }
     
 }
