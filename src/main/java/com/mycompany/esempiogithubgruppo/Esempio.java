@@ -15,6 +15,7 @@ public class Esempio {
         
         System.out.println("Prima stampa di prova");
         System.out.println("Christian");
+        System.out.println("Errico");
         
     }
     
